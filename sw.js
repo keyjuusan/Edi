@@ -13,6 +13,7 @@ self.addEventListener("install", (e) => {
           "./edi-icon.svg",
           "./jquery.js",
           "./bootstrap/js/bootstrap.bundle.js"
+          
         ]);
       })
       .catch((err) => {
