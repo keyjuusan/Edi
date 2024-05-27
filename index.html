@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <link rel="stylesheet" href="./bootstrap/bootstrap.css"> -->
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="shortcut icon" href="./edi-icon-md.svg" type="image/x-icon" />
+    <link rel="manifest" href="./manifest.json" />
+    <script src="./jquery.js"></script>
+    <title>Edi</title>
+  </head>
+  <body>
+    <div id="principal">
+      <div id="inputArea">
+        <header>
+          <nav>
+            <div id="zoom">
+              <button id="reducir" type="button">-</button>
+              <button id="aumentar" type="button">+</button>
+            </div>
+            <ul>
+              <li id="opcionHtml">html</li>
+              <li id="opcionCss">css</li>
+              <li id="opcionJs">js</li>
+            </ul>
+          </nav>
+        </header>
+        <textarea name="html" id="html"></textarea>
+        <textarea name="css" id="css"></textarea>
+        <textarea name="javascript" id="javascript"></textarea>
+      </div>
+      <main></main>
+    </div>
+
+    <footer>
+      <p>Desarrollado por <a style="text-decoration: none;" href="https://github.com/keyjuusan">Heyker V.</a></p>
+    </footer>
+
+    <style id="style"></style>
+    <script src="./code.js"></script>
+    <script src="./bootstrap/js/bootstrap.bundle.js">
+    </script>
+  </body>
+</html>

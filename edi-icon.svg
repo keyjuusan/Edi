@@ -1,0 +1,56 @@
+<svg version="1.1"
+    xmlns="http://www.w3.org/2000/svg" viewBox="10 10 90 90" width="100" height="100">
+    <!-- svg-source:excalidraw -->
+
+    <defs>
+        <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+        </style>
+
+    </defs>
+    <g stroke-linecap="round" transform="translate(10 10) rotate(0 46.327108560596045 46.327108560596045)">
+        <path d="M23.16 0 C36.32 0, 49.47 0, 69.49 0 C84.93 0, 92.65 7.72, 92.65 23.16 C92.65 35.85, 92.65 48.54, 92.65 69.49 C92.65 84.93, 84.93 92.65, 69.49 92.65 C57.9 92.65, 46.3 92.65, 23.16 92.65 C7.72 92.65, 0 84.93, 0 69.49 C0 60.1, 0 50.72, 0 23.16 C0 7.72, 7.72 0, 23.16 0" stroke="none" stroke-width="0" fill="#ffffff"></path>
+        <path d="M23.16 0 C34.73 0, 46.3 0, 69.49 0 M23.16 0 C32.92 0, 42.68 0, 69.49 0 M69.49 0 C84.93 0, 92.65 7.72, 92.65 23.16 M69.49 0 C84.93 0, 92.65 7.72, 92.65 23.16 M92.65 23.16 C92.65 41.22, 92.65 59.28, 92.65 69.49 M92.65 23.16 C92.65 40, 92.65 56.83, 92.65 69.49 M92.65 69.49 C92.65 84.93, 84.93 92.65, 69.49 92.65 M92.65 69.49 C92.65 84.93, 84.93 92.65, 69.49 92.65 M69.49 92.65 C52.22 92.65, 34.96 92.65, 23.16 92.65 M69.49 92.65 C55.07 92.65, 40.64 92.65, 23.16 92.65 M23.16 92.65 C7.72 92.65, 0 84.93, 0 69.49 M23.16 92.65 C7.72 92.65, 0 84.93, 0 69.49 M0 69.49 C0 58.17, 0 46.84, 0 23.16 M0 69.49 C0 55.46, 0 41.43, 0 23.16 M0 23.16 C0 7.72, 7.72 0, 23.16 0 M0 23.16 C0 7.72, 7.72 0, 23.16 0" stroke="transparent" stroke-width="1" fill="none"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(44.06250092105287 44.49707378407447) rotate(0 -9.736935103516927 6.9100816161800225)">
+            <path d="M0 0 C-3.25 2.3, -16.23 11.52, -19.47 13.82 M0 0 C-3.25 2.3, -16.23 11.52, -19.47 13.82" stroke="#fab005" stroke-width="4" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g transform="translate(68.59171629025323 44.497073784074445) rotate(0 9.736935103516927 6.910081616180037)">
+            <path d="M0 0 C3.25 2.3, 16.23 11.52, 19.47 13.82 M0 0 C3.25 2.3, 16.23 11.52, 19.47 13.82" stroke="#a5d8ff" stroke-width="4" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g transform="translate(44.062500835819876 72.13740032436917) rotate(0 -9.736935103516927 -6.910081616180037)">
+            <path d="M0 0 C-3.25 -2.3, -16.23 -11.52, -19.47 -13.82 M0 0 C-3.25 -2.3, -16.23 -11.52, -19.47 -13.82" stroke="#fab005" stroke-width="4" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g transform="translate(68.59171637548621 72.13740032436914) rotate(0 9.736935103516927 -6.910081616180037)">
+            <path d="M0 0 C3.25 -2.3, 16.23 -11.52, 19.47 -13.82 M0 0 C3.25 -2.3, 16.23 -11.52, 19.47 -13.82" stroke="#a5d8ff" stroke-width="4" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g transform="translate(62.96121571493377 40.51681671765252) rotate(0 -5.972580528493836 15.81029222709607)">
+            <path d="M0 0 C-1.99 5.27, -9.95 26.35, -11.95 31.62 M0 0 C-1.99 5.27, -9.95 26.35, -11.95 31.62" stroke="#1e1e1e" stroke-width="4" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+</svg>

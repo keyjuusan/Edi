@@ -1,0 +1,21 @@
+{
+    "short_name": "Edi",
+    "name": "Edi tu simple IDE web",
+    "start_url":"./",
+    "icons":[
+        {"src":"./edi-icon-md.svg","sizes":"144x144"}
+    ],
+    "background_color": "#ffffff",
+    "display":"standalone",
+    "scope":"/",
+    "theme_color": "#000000",
+    "description":"Esta es una aplicacion para practicar html,css,javascript",
+    "orientation":"portrait-primary",
+    "lang":"es-Es",
+    "dir":"ltr",
+    "serviceworker":{
+        "src":"sw.js",
+        "scope":"/",
+        "update_via_cache":"none"
+    }
+}
